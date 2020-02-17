@@ -8,6 +8,9 @@ This SDK is a set of common utilities used in various part of AvvocatoFlash proj
 - update the package version 
 - npm publish
 
+## NPM
+`https://www.npmjs.com/org/avvocatoflash`
+
 ## Install
 
 Install via npm
