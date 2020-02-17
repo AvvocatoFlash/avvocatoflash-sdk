@@ -1,6 +1,6 @@
  # AvvocatoFlash SDK
 
-[![CircleCI](https://circleci.com/gh/amontech/amon-lib/tree/master.svg?style=svg&circle-token=35a5a437b160dcd5edeb20b19b5b75fcebd7082d)](https://circleci.com/gh/amontech/amon-lib/tree/master)
+[![CircleCI](https://circleci.com/gh/AvvocatoFlash/avvocatoflash-sdk.svg?style=svg)](https://circleci.com/gh/AvvocatoFlash/avvocatoflash-sdk)
 
 This SDK is a set of common utilities used in various part of AvvocatoFlash projects.
 
