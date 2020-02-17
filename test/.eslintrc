@@ -1,0 +1,16 @@
+{
+  "env": {
+    "mocha": true
+  },
+  "globals" : {
+    "mongoose": true,
+    "expect": true,
+    "sandbox": true,
+    "srcDir": true
+  },
+  "rules": {
+    "no-useless-escape": 0,
+    "llo": 0,
+    "no-console": ["off"]
+  }
+}

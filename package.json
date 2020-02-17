@@ -7,6 +7,9 @@
     "lib": "lib"
   },
   "scripts": {
+    "pretest": "eslint --ignore-path .gitignore .",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
     "test": "mocha ./test/test.config.js ./test/unit --recursive --timeout 90000"
   },
   "repository": {
@@ -26,5 +29,11 @@
     "request": "^2.88.2",
     "request-promise": "^4.2.5",
     "sinon": "^8.1.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-strongloop": "^2.1.0",
+    "eslint-plugin-node": "^11.0.0",
+    "eslint-plugin-promise": "^4.2.1"
   }
 }
